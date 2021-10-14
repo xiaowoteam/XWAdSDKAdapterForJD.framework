@@ -1,0 +1,6 @@
+framework module XWAdSDKAdapterForJD {
+  umbrella header "XWAdSDKAdapterForJD.h"
+
+  export *
+  module * { export * }
+}
